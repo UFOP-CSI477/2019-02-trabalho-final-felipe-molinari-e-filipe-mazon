@@ -30,11 +30,11 @@ gerenciamento de recursos humanos de uma empresa.
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
 
-  Até o momento da entrega dessa proposta, foi pensado nas seguintes paginas:
-    ⦁ Cadastrar,Editar e Excluir informações de um colaborador.
-    ⦁ Cadastrar ocorrência/advertência.
-    ⦁ Inserir atestado para um colaborador.
-    ⦁ Cadastrar,Editar e Excluir informações sobre filiais e sede.
+  Até o momento da entrega dessa proposta, foi pensado nas seguintes paginas:  
+    ⦁ Cadastrar,Editar e Excluir informações de um colaborador.  
+    ⦁ Cadastrar ocorrência/advertência.  
+    ⦁ Inserir atestado para um colaborador.  
+    ⦁ Cadastrar,Editar e Excluir informações sobre filiais e sede.  
     ⦁ Selecionar relatórios com os dados coletados(funcionários por formação superior, salário, função, funcionários que mais tiraram       férias, funcionários que possuem dependentes).
 
 ### 5. Referências
